@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threshold", "Threshold\Threshold.csproj", "{2BABD7F8-148C-48EB-A9ED-C4EE40A28F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BABD7F8-148C-48EB-A9ED-C4EE40A28F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BABD7F8-148C-48EB-A9ED-C4EE40A28F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BABD7F8-148C-48EB-A9ED-C4EE40A28F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BABD7F8-148C-48EB-A9ED-C4EE40A28F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84223B1-4EAE-41F0-A3D0-671BBF72BF24}
+	EndGlobalSection
+EndGlobal
